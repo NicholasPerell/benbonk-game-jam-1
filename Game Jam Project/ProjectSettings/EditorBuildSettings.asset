@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 8ea2909b45360d34e8734c337e214301
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 66ce73b6ca550544383d049933401df4
+  - enabled: 1
+    path: Assets/Scenes/Main Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Money Lose Screen.unity
+    guid: e886863b41eb3b94e9d6c09721d1b9fc
+  - enabled: 1
+    path: Assets/Scenes/Trust Lose Screen.unity
+    guid: 7277134e31d2c974a980679dfec10727
+  - enabled: 1
+    path: Assets/Scenes/Win Cutscene.unity
+    guid: 7aaba205ae654834bb6c0a9b33ad267b
   m_configObjects: {}
